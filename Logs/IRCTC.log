@@ -1,0 +1,40 @@
+2024-05-19 13:27:47,067 : (level)s : (name)s : (funcName)s : (lineno)d : (message)s
+2024-05-19 13:27:50,639 : (level)s : (name)s : (funcName)s : (lineno)d : (message)s
+2024-05-19 13:28:03,853 : (level)s : (name)s : (funcName)s : (lineno)d : (message)s
+2024-05-19 13:28:04,786 : (level)s : (name)s : (funcName)s : (lineno)d : (message)s
+2024-05-19 13:28:05,483 : (level)s : (name)s : (funcName)s : (lineno)d : (message)s
+2024-05-19 13:28:06,156 : (level)s : (name)s : (funcName)s : (lineno)d : (message)s
+2024-05-19 13:31:19,549 : (level)s : (name)s : (funcName)s : (lineno)d : (message)s
+2024-05-19 13:31:23,147 : (level)s : (name)s : (funcName)s : (lineno)d : (message)s
+2024-05-19 13:31:27,291 : (level)s : (name)s : (funcName)s : (lineno)d : (message)s
+2024-05-19 13:31:28,101 : (level)s : (name)s : (funcName)s : (lineno)d : (message)s
+2024-05-19 13:31:31,516 : (level)s : (name)s : (funcName)s : (lineno)d : (message)s
+2024-05-19 13:31:32,184 : (level)s : (name)s : (funcName)s : (lineno)d : (message)s
+2024-05-19 13:35:45,273 : INFO : Test_Search : test_trainsearch : 29 : From City
+2024-05-19 13:35:46,118 : INFO : Test_Search : test_trainsearch : 31 : To City
+2024-05-19 13:35:46,497 : INFO : Test_Search : test_titel01 : 11 : TestCase test_titel01 Started 
+2024-05-19 13:35:49,603 : INFO : Test_Search : test_trainsearch : 33 : date selected 
+2024-05-19 13:35:50,172 : INFO : Test_Search : test_titel01 : 18 : TestCase test_titel01 Pass 
+2024-05-19 13:35:50,258 : INFO : Test_Search : test_trainsearch : 35 : Class option filledpy
+2024-05-19 14:18:45,712 : INFO : Test_Select_Train : test_add : 14 : From City
+2024-05-19 14:18:46,575 : INFO : Test_Select_Train : test_add : 16 : To City
+2024-05-19 14:18:49,958 : INFO : Test_Select_Train : test_add : 18 : date selected 
+2024-05-19 14:18:50,637 : INFO : Test_Select_Train : test_add : 20 : Class option filled
+2024-05-19 14:18:53,825 : INFO : Test_Select_Train : test_add : 23 : trains
+2024-05-19 14:18:53,965 : INFO : Test_Select_Train : test_add : 27 : Select option
+2024-05-19 14:18:54,254 : INFO : Test_Select_Train : test_add : 29 : Add option
+2024-05-19 14:18:54,370 : INFO : Test_Select_Train : test_add : 31 : Book train
+2024-05-19 14:28:26,323 : INFO : Test_Search : test_title01 : 11 : TestCase test_titel01 Started 
+2024-05-19 14:28:29,893 : INFO : Test_Search : test_title01 : 18 : TestCase test_titel01 Pass 
+2024-05-19 14:28:42,338 : INFO : Test_Search : test_trainsearch : 29 : From City
+2024-05-19 14:28:43,106 : INFO : Test_Search : test_trainsearch : 31 : To City
+2024-05-19 14:28:46,500 : INFO : Test_Search : test_trainsearch : 33 : date selected 
+2024-05-19 14:28:47,256 : INFO : Test_Search : test_trainsearch : 35 : Class option filled
+2024-05-19 14:29:01,483 : INFO : Test_Select_Train : test_add : 14 : From City
+2024-05-19 14:29:02,255 : INFO : Test_Select_Train : test_add : 16 : To City
+2024-05-19 14:29:05,670 : INFO : Test_Select_Train : test_add : 18 : date selected 
+2024-05-19 14:29:06,246 : INFO : Test_Select_Train : test_add : 20 : Class option filled
+2024-05-19 14:29:09,397 : INFO : Test_Select_Train : test_add : 23 : trains
+2024-05-19 14:29:09,563 : INFO : Test_Select_Train : test_add : 27 : Select option
+2024-05-19 14:29:10,210 : INFO : Test_Select_Train : test_add : 29 : Add option
+2024-05-19 14:29:10,429 : INFO : Test_Select_Train : test_add : 31 : Book train
